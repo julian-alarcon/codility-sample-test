@@ -1,6 +1,6 @@
 # Solution for Codility sample test in Go
 
-Test located in [Codility sample test site](https://app.codility.com/demo/take-sample-test/)
+Test located in [Codility sample test site https://app.codility.com/demo/take-sample-test/](https://app.codility.com/demo/take-sample-test/)
 (accessed the 2022-02-16)
 
 Just a normal problem where you get an array of integers and need to look for the
